@@ -1,0 +1,17 @@
+logs/*
+logs
+crash-reports/*
+crash-reports
+client_data/*
+client_data
+shaderpacks/*
+shaderpacks
+optionsof.txt
+optionsshaders.txt
+options.txt
+schematics/*
+schematics
+resourcepacks/*
+resourcepacks
+local/
+WailaErrorOutput.txt
