@@ -1,296 +1,569 @@
-[11:36:57] [main/INFO]: ModLauncher running: args [--username, Casmin7, --version, forge-40.1.0, --gameDir, D:\MC Profiles\Instances\comicraft, --assetsDir, D:\MC Profiles\Install\assets, --assetIndex, 1.18, --uuid, 82f7ff2fdabd4b699217fbbd8d63ccff, --accessToken, ????????, --clientId, NmE0ZjdhNzUtZDI3OC00YTc3LWEwM2MtNGVmYzQ2YzcwNGQ0, --xuid, 2535466807799235, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 40.1.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
-[11:36:57] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
-[11:36:58] [main/INFO]: OptiFineTransformationService.onLoad
-[11:36:58] [main/INFO]: OptiFine ZIP file URL: union:/D:/MC%20Profiles/Instances/comicraft/mods/OptiFine_1.18.2_HD_U_H7.jar%2352!/
-[11:36:58] [main/INFO]: OptiFine ZIP file: D:\MC Profiles\Instances\comicraft\mods\OptiFine_1.18.2_HD_U_H7.jar
-[11:36:58] [main/INFO]: Target.PRE_CLASS is available
-[11:36:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/MC%20Profiles/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
-[11:36:59] [main/INFO]: OptiFineTransformationService.initialize
-[11:37:00] [main/INFO]: Found mod file AI-Improvements-1.18-0.4.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file appleskin-forge-mc1.18-2.4.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file architectury-4.4.54.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file AutoRegLib-1.7-53.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file balm-3.0.3+0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file betterfpsdist-1.18.2-1.5.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file Bookshelf-Forge-1.18.2-13.0.13.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file Botania-1.18.2-431.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file buildinggadgets-3.13.0-build.5+mc1.18.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file Clumps-forge-1.18.2-8.0.0+8.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file ColossalChests-1.18.2-1.8.3.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file comforts-forge-1.18.2-5.0.0.4.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file Controlling-forge-1.18.2-9.0+19.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file CosmeticArmorReworked-1.18.2-v2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file craftingtweaks-forge-1.18.1-14.0.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file create-mc1.18.2_v0.4.1.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file createaddition-1.18.2-20220424a.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file CTM-1.18.2-1.1.4+4.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file Cucumber-1.18.2-5.1.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file curios-forge-1.18.2-5.0.7.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file CyclopsCore-1.18.2-1.13.6.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.18.2-10.0.3.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file FastLeafDecay-28.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file ferritecore-4.2.1-forge.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file flywheel-forge-1.18-0.6.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file FramedBlocks-5.1.1-hotfix.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file ftb-chunks-forge-1802.3.6-build.138.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file ftb-essentials-1802.1.7-build.42.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file ftb-library-forge-1802.3.6-build.115.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file ftb-quests-forge-1802.3.8-build.101.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file ftb-teams-forge-1802.2.6-build.51.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file ftb-ultimine-forge-1802.3.3-build.55.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file item-filters-forge-1802.2.7-build.25.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file Jade-1.18.2-5.1.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file JadeAddons-1.18.2-2.0.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file jei-1.18.2-9.7.0.194.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file journeymap-1.18.2-5.8.3-forge.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file JustEnoughResources-1.18.2-0.14.1.167.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file kubejs-create-1802.2.1-build.16.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file kubejs-forge-1802.5.1-build.363.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file kubejs-mekanism-1802.1.3-build.6.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file Mekanism-1.18.2-10.2.0.459.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file MekanismGenerators-1.18.2-10.2.0.459.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file MekanismTools-1.18.2-10.2.0.459.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file MysticalAgriculture-1.18.2-5.1.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4-RC-11-all.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file Patchouli-1.18.2-67.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file Quark-3.2-353.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file refinedstorage-1.10.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file refinedstorageaddons-0.8.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file rhino-forge-1801.1.9-build.135.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file RSInfinityBooster-1.18.2-2.1+16.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file rsrequestify-2.2.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file SimpleStorageNetwork-1.18.2-1.6.1.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file spark-1.9.1-forge.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file StorageDrawers-1.18.2-10.2.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file tbouncepad-2.2-1.18.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file TConstruct-1.18.1-3.4.2.60.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file TerraBlender-forge-1.18.2-1.1.0.99.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file torchmaster-18.1.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:00] [main/INFO]: Found mod file waystones-forge-1.18.2-10.0.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
-[11:37:01] [main/INFO]: Found mod file fmlcore-1.18.2-40.1.0.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@50d68830
-[11:37:01] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@50d68830
-[11:37:01] [main/INFO]: Found mod file mclanguage-1.18.2-40.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@50d68830
-[11:37:01] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@50d68830
-[11:37:01] [main/INFO]: Found mod file forge-1.18.2-40.1.0-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@50d68830
-[11:37:01] [main/ERROR]: Missing mandatory dependencies: mantle
-[11:37:03] [main/INFO]: OptiFineTransformationService.transformers
-[11:37:03] [main/INFO]: Targets: 350
-[11:37:04] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
-[11:37:10] [main/INFO]: Compatibility level set to JAVA_17
-[11:37:11] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-40.1.0, --gameDir, D:\MC Profiles\Instances\comicraft, --assetsDir, D:\MC Profiles\Install\assets, --uuid, 82f7ff2fdabd4b699217fbbd8d63ccff, --username, Casmin7, --assetIndex, 1.18, --accessToken, ????????, --clientId, NmE0ZjdhNzUtZDI3OC00YTc3LWEwM2MtNGVmYzQ2YzcwNGQ0, --xuid, 2535466807799235, --userType, msa, --versionType, release, --width, 1024, --height, 768]
-[11:37:12] [main/WARN]: Reference map 'rhino-forge-refmap.json' for rhino.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:37:52] [Render thread/WARN]: Assets URL 'union:/D:/MC%20Profiles/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23116!/assets/.mcassetsroot' uses unexpected schema
-[11:37:52] [Render thread/WARN]: Assets URL 'union:/D:/MC%20Profiles/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23116!/data/.mcassetsroot' uses unexpected schema
-[11:37:52] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:37:54] [Render thread/INFO]: Setting user: Casmin7
-[11:37:54] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
-[11:37:54] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
-[11:37:55] [Render thread/INFO]: Loaded client.properties
-[11:37:58] [Render thread/INFO]: [OptiFine] 
-[11:37:58] [Render thread/INFO]: [OptiFine] OptiFine_1.18.2_HD_U_H7
-[11:37:58] [Render thread/INFO]: [OptiFine] Build: 20220410-185216
-[11:37:58] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
-[11:37:58] [Render thread/INFO]: [OptiFine] Java: 17.0.1, Microsoft
-[11:37:58] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
-[11:37:58] [Render thread/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
-[11:37:58] [Render thread/INFO]: [OptiFine] OpenGL: AMD Radeon(TM) Vega 8 Graphics , version 3.2.14800 Core Profile Forward-Compatible Context 22.3.1 30.0.15002.1004, ATI Technologies Inc.
-[11:37:58] [Render thread/INFO]: [OptiFine] OpenGL Version: 3.2.14800
-[11:37:58] [Render thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
-[11:37:58] [VersionCheck/INFO]: [OptiFine] Checking for new version
-[11:38:00] [VersionCheck/INFO]: [OptiFine] Version found: H6
-[11:38:00] [Render thread/INFO]: [Shaders] OpenGL Version: 3.2.14800 Core Profile Forward-Compatible Context 22.3.1 30.0.15002.1004
-[11:38:00] [Render thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
-[11:38:00] [Render thread/INFO]: [Shaders] Renderer: AMD Radeon(TM) Vega 8 Graphics 
-[11:38:00] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  - 
-[11:38:00] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
-[11:38:00] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
-[11:38:00] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
-[11:38:00] [Render thread/INFO]: [Shaders] Load shaders configuration.
-[11:38:00] [Render thread/INFO]: [Shaders] Save shaders configuration.
-[11:38:00] [Render thread/INFO]: [Shaders] No shaderpack loaded.
-[11:38:00] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
-[11:38:00] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
-[11:38:02] [Render thread/FATAL]: Error during pre-loading phase
-net.minecraftforge.fml.ModLoadingException: Mod §etconstruct§r requires §6mantle§r §o1.8.36 or above§r
-§7Currently, §6mantle§r§7 is §o§nnot installed
-	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.18.2-40.1.0.jar%23117!/:?]
-	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
-	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
-	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
-	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
-	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:94) ~[fmlcore-1.18.2-40.1.0.jar%23117!/:?]
-	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:126) ~[fmlcore-1.18.2-40.1.0.jar%23117!/:?]
-	at net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:92) ~[forge-1.18.2-40.1.0-universal.jar%23120!/:?]
-	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:113) ~[forge-1.18.2-40.1.0-universal.jar%23120!/:?]
-	at net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:92) ~[forge-1.18.2-40.1.0-universal.jar%23120!/:?]
-	at net.minecraft.client.Minecraft.<init>(Minecraft.java:458) ~[client-1.18.2-20220404.173914-srg.jar%23116!/:?]
-	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23116!/:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
-	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.1.0.jar%2316!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?]
-	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
-[11:38:03] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundLoadEvent to a broken mod state
-[11:38:04] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
-[11:38:04] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
-[11:38:04] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
-[11:38:04] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
-[11:38:04] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Block to a broken mod state
-[11:38:04] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Item to a broken mod state
-[11:38:07] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ParticleFactoryRegisterEvent to a broken mod state
-[11:38:07] [Render thread/INFO]: Narrator library for x64 successfully loaded
-[11:38:07] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterClientReloadListenersEvent to a broken mod state
-[11:38:07] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterLayerDefinitions to a broken mod state
-[11:38:07] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterRenderers to a broken mod state
-[11:38:08] [Render thread/INFO]: Reloading ResourceManager: Default
-[11:38:08] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
-[11:38:08] [Render thread/INFO]: [OptiFine] Resource packs: Default
-[11:38:08] [Worker-Main-8/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ModelRegistryEvent to a broken mod state
-[11:38:08] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
-[11:38:08] [Worker-Main-13/INFO]: [OptiFine] Multitexture: false
-[11:38:08] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
-[11:38:08] [Worker-Main-13/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
-[11:38:08] [Worker-Main-11/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
-[11:38:08] [Worker-Main-12/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
-[11:38:10] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
-[11:38:10] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
-[11:38:10] [Render thread/WARN]: [OptiFine] (Reflector) More than one method found: net.minecraftforge.client.ForgeHooksClient.onFogRender
-[11:38:10] [Render thread/WARN]: [OptiFine] (Reflector)  - public static void net.minecraftforge.client.ForgeHooksClient.onFogRender(net.minecraft.client.renderer.FogRenderer$FogMode,net.minecraft.client.Camera,float,float)
-[11:38:10] [Render thread/WARN]: [OptiFine] (Reflector)  - public static void net.minecraftforge.client.ForgeHooksClient.onFogRender(net.minecraft.client.renderer.FogRenderer$FogMode,net.minecraft.client.Camera,float,float,float,com.mojang.blaze3d.shaders.FogShape)
-[11:38:11] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
-[11:38:26] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[11:38:26] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
-[11:38:26] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
-[11:38:26] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
-[11:38:26] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
-[11:38:26] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
-[11:38:26] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
-[11:38:26] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
-[11:38:26] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
-[11:38:27] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] Multipass connected textures: false
-[11:38:28] [Worker-Main-8/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
-[11:38:43] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 4
-[11:38:43] [Worker-Main-8/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
-[11:38:49] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[11:38:49] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
-[11:38:49] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
-[11:38:49] [Worker-Main-8/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
-[11:38:49] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:38:49] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
-[11:38:50] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[11:38:50] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
-[11:38:50] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
-[11:38:50] [Worker-Main-8/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
-[11:38:50] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:38:50] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
-[11:38:50] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
-[11:38:51] [Worker-Main-8/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:38:51] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
-[11:38:51] [Worker-Main-8/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:38:51] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
-[11:38:51] [Worker-Main-8/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:38:51] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
-[11:38:51] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[11:38:52] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
-[11:38:52] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
-[11:38:52] [Worker-Main-8/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
-[11:38:52] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:38:52] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
-[11:38:54] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
-[11:38:54] [Render thread/INFO]: Sound engine started
-[11:38:55] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
-[11:38:56] [Render thread/INFO]: [OptiFine] Animated sprites: 45
-[11:38:56] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
-[11:38:56] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[11:38:56] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:38:56] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
-[11:38:56] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[11:38:56] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:38:56] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
-[11:38:56] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[11:38:56] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:38:56] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
-[11:38:56] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[11:38:56] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:38:56] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
-[11:38:56] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[11:38:56] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:38:56] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
-[11:38:56] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[11:38:56] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:38:56] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
-[11:38:59] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ModelBakeEvent to a broken mod state
-[11:39:00] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
-[11:39:00] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$AddLayers to a broken mod state
-[11:39:01] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterShadersEvent to a broken mod state
-[11:39:02] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[11:39:02] [Render thread/INFO]: [OptiFine] Animated sprites: 1
-[11:39:02] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
-[11:39:03] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[11:39:03] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:39:03] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
-[11:39:03] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[11:39:03] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:39:03] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
-[11:39:03] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[11:48:25] [main/INFO]: ModLauncher running: args [--username, Casmin7, --version, forge-40.1.0, --gameDir, D:\MC Profiles\Instances\comicraft, --assetsDir, D:\MC Profiles\Install\assets, --assetIndex, 1.18, --uuid, 82f7ff2fdabd4b699217fbbd8d63ccff, --accessToken, ????????, --clientId, NmE0ZjdhNzUtZDI3OC00YTc3LWEwM2MtNGVmYzQ2YzcwNGQ0, --xuid, 2535466807799235, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 40.1.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[11:48:25] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[11:48:26] [main/INFO]: OptiFineTransformationService.onLoad
+[11:48:26] [main/INFO]: OptiFine ZIP file URL: union:/D:/MC%20Profiles/Instances/comicraft/mods/OptiFine_1.18.2_HD_U_H7.jar%2352!/
+[11:48:26] [main/INFO]: OptiFine ZIP file: D:\MC Profiles\Instances\comicraft\mods\OptiFine_1.18.2_HD_U_H7.jar
+[11:48:26] [main/INFO]: Target.PRE_CLASS is available
+[11:48:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/MC%20Profiles/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[11:48:26] [main/INFO]: OptiFineTransformationService.initialize
+[11:48:27] [main/INFO]: Found mod file AI-Improvements-1.18-0.4.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file appleskin-forge-mc1.18-2.4.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file architectury-4.4.54.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file AutoRegLib-1.7-53.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file balm-3.0.3+0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file betterfpsdist-1.18.2-1.5.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Bookshelf-Forge-1.18.2-13.0.13.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Botania-1.18.2-431.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file buildinggadgets-3.13.0-build.5+mc1.18.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Clumps-forge-1.18.2-8.0.0+8.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file ColossalChests-1.18.2-1.8.3.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file comforts-forge-1.18.2-5.0.0.4.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Controlling-forge-1.18.2-9.0+19.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file CosmeticArmorReworked-1.18.2-v2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file craftingtweaks-forge-1.18.1-14.0.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file create-mc1.18.2_v0.4.1.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file createaddition-1.18.2-20220424a.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file CTM-1.18.2-1.1.4+4.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Cucumber-1.18.2-5.1.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file curios-forge-1.18.2-5.0.7.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file CyclopsCore-1.18.2-1.13.6.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.18.2-10.0.3.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file FastLeafDecay-28.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file ferritecore-4.2.1-forge.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file flywheel-forge-1.18-0.6.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file FramedBlocks-5.1.1-hotfix.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file ftb-chunks-forge-1802.3.6-build.138.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file ftb-essentials-1802.1.7-build.42.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file ftb-library-forge-1802.3.6-build.115.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file ftb-quests-forge-1802.3.8-build.101.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file ftb-teams-forge-1802.2.6-build.51.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file ftb-ultimine-forge-1802.3.3-build.55.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file item-filters-forge-1802.2.7-build.25.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Jade-1.18.2-5.1.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file JadeAddons-1.18.2-2.0.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file jei-1.18.2-9.7.0.194.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file journeymap-1.18.2-5.8.3-forge.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file JustEnoughResources-1.18.2-0.14.1.167.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file kubejs-create-1802.2.1-build.16.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file kubejs-forge-1802.5.1-build.363.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file kubejs-mekanism-1802.1.3-build.6.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Mantle-1.18.1-1.8.37.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Mekanism-1.18.2-10.2.0.459.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file MekanismGenerators-1.18.2-10.2.0.459.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file MekanismTools-1.18.2-10.2.0.459.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file MysticalAgriculture-1.18.2-5.1.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4-RC-11-all.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file output_1.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Patchouli-1.18.2-67.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file Quark-3.2-353.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file refinedstorage-1.10.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file refinedstorageaddons-0.8.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file rhino-forge-1801.1.9-build.135.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file RSInfinityBooster-1.18.2-2.1+16.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file rsrequestify-2.2.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file SimpleStorageNetwork-1.18.2-1.6.1.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file spark-1.9.1-forge.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file StorageDrawers-1.18.2-10.2.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file tbouncepad-2.2-1.18.2.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file TConstruct-1.18.1-3.4.2.60.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file TerraBlender-forge-1.18.2-1.1.0.99.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file torchmaster-18.1.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:27] [main/INFO]: Found mod file waystones-forge-1.18.2-10.0.0.jar of type MOD with locator {mods folder locator at D:\MC Profiles\Instances\comicraft\mods}
+[11:48:28] [main/INFO]: Found mod file fmlcore-1.18.2-40.1.0.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6ca320ab
+[11:48:28] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6ca320ab
+[11:48:28] [main/INFO]: Found mod file mclanguage-1.18.2-40.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6ca320ab
+[11:48:28] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6ca320ab
+[11:48:28] [main/INFO]: Found mod file forge-1.18.2-40.1.0-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6ca320ab
+[11:48:30] [main/INFO]: OptiFineTransformationService.transformers
+[11:48:30] [main/INFO]: Targets: 350
+[11:48:32] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[11:48:40] [main/INFO]: Compatibility level set to JAVA_17
+[11:48:40] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-40.1.0, --gameDir, D:\MC Profiles\Instances\comicraft, --assetsDir, D:\MC Profiles\Install\assets, --uuid, 82f7ff2fdabd4b699217fbbd8d63ccff, --username, Casmin7, --assetIndex, 1.18, --accessToken, ????????, --clientId, NmE0ZjdhNzUtZDI3OC00YTc3LWEwM2MtNGVmYzQ2YzcwNGQ0, --xuid, 2535466807799235, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[11:48:41] [main/WARN]: Reference map 'rhino-forge-refmap.json' for rhino.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:49:19] [Render thread/WARN]: Assets URL 'union:/D:/MC%20Profiles/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23117!/assets/.mcassetsroot' uses unexpected schema
+[11:49:19] [Render thread/WARN]: Assets URL 'union:/D:/MC%20Profiles/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23117!/data/.mcassetsroot' uses unexpected schema
+[11:49:19] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:49:21] [Render thread/INFO]: Setting user: Casmin7
+[11:49:22] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[11:49:22] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[11:49:22] [Render thread/INFO]: Loaded client.properties
+[11:49:24] [Render thread/INFO]: [OptiFine] 
+[11:49:24] [Render thread/INFO]: [OptiFine] OptiFine_1.18.2_HD_U_H7
+[11:49:24] [Render thread/INFO]: [OptiFine] Build: 20220410-185216
+[11:49:24] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[11:49:24] [Render thread/INFO]: [OptiFine] Java: 17.0.1, Microsoft
+[11:49:24] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[11:49:24] [Render thread/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[11:49:24] [Render thread/INFO]: [OptiFine] OpenGL: AMD Radeon(TM) Vega 8 Graphics , version 3.2.14800 Core Profile Forward-Compatible Context 22.3.1 30.0.15002.1004, ATI Technologies Inc.
+[11:49:24] [Render thread/INFO]: [OptiFine] OpenGL Version: 3.2.14800
+[11:49:24] [Render thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[11:49:24] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[11:49:26] [VersionCheck/INFO]: [OptiFine] Version found: H6
+[11:49:26] [Render thread/INFO]: [Shaders] OpenGL Version: 3.2.14800 Core Profile Forward-Compatible Context 22.3.1 30.0.15002.1004
+[11:49:26] [Render thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[11:49:26] [Render thread/INFO]: [Shaders] Renderer: AMD Radeon(TM) Vega 8 Graphics 
+[11:49:26] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  - 
+[11:49:26] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[11:49:26] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[11:49:26] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[11:49:26] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[11:49:26] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[11:49:26] [Render thread/INFO]: [Shaders] No shaderpack loaded.
+[11:49:26] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[11:49:26] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[11:49:29] [modloading-worker-0/WARN]: Configuration file D:\MC Profiles\Instances\comicraft\config\jeresources.toml is not correct. Correcting
+[11:49:29] [modloading-worker-0/WARN]: Incorrect key itemsPerColumn was corrected from null to its default, 4. 
+[11:49:29] [modloading-worker-0/WARN]: Incorrect key itemsPerRow was corrected from null to its default, 4. 
+[11:49:29] [modloading-worker-0/WARN]: Incorrect key diyData was corrected from null to its default, true. 
+[11:49:29] [modloading-worker-0/WARN]: Incorrect key showDevData was corrected from null to its default, false. 
+[11:49:29] [modloading-worker-0/WARN]: Incorrect key enchantsBlacklist was corrected from null to its default, [flimflam, soulBound]. 
+[11:49:29] [modloading-worker-0/WARN]: Incorrect key hiddenTabs was corrected from null to its default, []. 
+[11:49:29] [modloading-worker-0/WARN]: Incorrect key dimensionsBlacklist was corrected from null to its default, [-11]. 
+[11:49:29] [modloading-worker-0/WARN]: Incorrect key disableLootManagerReloading was corrected from null to its default, false. 
+[11:49:29] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[11:49:29] [modloading-worker-0/INFO]: Forge mod loading, version 40.1.0, for MC 1.18.2 with MCP 20220404.173914
+[11:49:29] [modloading-worker-0/INFO]: MinecraftForge v40.1.0 Initialized
+[11:49:29] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[11:49:29] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[11:49:29] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[11:49:29] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[11:49:29] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[11:49:30] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[11:49:30] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[11:49:31] [modloading-worker-0/ERROR]: Failed to create mod instance. ModID: tconstruct, class slimeknights.tconstruct.TConstruct
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:67) ~[javafmllanguage-1.18.2-40.1.0.jar%23119!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:106) ~[fmlcore-1.18.2-40.1.0.jar%23118!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.lang.NoSuchFieldError: LOOT_MODIFIER_SERIALIZERS
+	at slimeknights.tconstruct.common.TinkerModule.<clinit>(TinkerModule.java:69) ~[TConstruct-1.18.1-3.4.2.60.jar%23113!/:1.18.1-3.4.2.60]
+	at slimeknights.tconstruct.TConstruct.<init>(TConstruct.java:93) ~[TConstruct-1.18.1-3.4.2.60.jar%23113!/:1.18.1-3.4.2.60]
+	... 14 more
+[11:49:31] [modloading-worker-0/INFO]: Creating a new config file at D:\MC Profiles\Instances\comicraft\config\enchdesc.json.
+[11:49:31] [modloading-worker-0/INFO]: Saved config file.
+[11:49:32] [modloading-worker-0/WARN]: Configuration file D:\MC Profiles\Instances\comicraft\config\betterfpsdist-common.toml is not correct. Correcting
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key Config category was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key Config category.stretch was corrected from null to its default, 2.0. 
+[11:49:32] [modloading-worker-0/INFO]: Optifine detected.
+[11:49:32] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[11:49:32] [modloading-worker-0/WARN]: Configuration file D:\MC Profiles\Instances\comicraft\config\mysticalagriculture-common.toml is not correct. Correcting
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.inferiumDropChance was corrected from null to its default, 0.2. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.infusionCrystalUses was corrected from null to its default, 1000. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.growthAcceleratorCooldown was corrected from null to its default, 10. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.fertilizedEssenceChance was corrected from null to its default, 0.1. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.secondarySeedDrops was corrected from null to its default, true. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.witherDropsEssence was corrected from null to its default, true. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.dragonDropsEssence was corrected from null to its default, true. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.essenceFarmlandConversion was corrected from null to its default, true. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.seedCraftingRecipes was corrected from null to its default, false. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.enchantableSupremiumTools was corrected from null to its default, false. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key General.fakePlayerWatering was corrected from null to its default, true. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.souliumOreChance was corrected from null to its default, 0.05. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.generateProsperityOre was corrected from null to its default, true. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.prosperitySpawnRate was corrected from null to its default, 12. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.prosperitySpawnSize was corrected from null to its default, 8. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.prosperitySpawnMinY was corrected from null to its default, -60. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.prosperitySpawnMaxY was corrected from null to its default, 24. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.prosperityBiomeWhitelist was corrected from null to its default, []. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.generateInferiumOre was corrected from null to its default, true. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.inferiumSpawnRate was corrected from null to its default, 16. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.inferiumSpawnSize was corrected from null to its default, 8. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.inferiumSpawnMinY was corrected from null to its default, -32. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.inferiumSpawnMaxY was corrected from null to its default, 64. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.inferiumBiomeWhitelist was corrected from null to its default, []. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.generateSoulstone was corrected from null to its default, true. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.soulstoneSpawnRate was corrected from null to its default, 4. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.soulstoneSpawnSize was corrected from null to its default, 64. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.soulstoneSpawnMinY was corrected from null to its default, 0. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.soulstoneSpawnMaxY was corrected from null to its default, 128. 
+[11:49:32] [modloading-worker-0/WARN]: Incorrect key World.soulstoneBiomeWhitelist was corrected from null to its default, []. 
+[11:49:32] [modloading-worker-0/INFO]: Found 1 RS API injection point
+[11:49:32] [modloading-worker-0/INFO]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[11:49:32] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[11:49:32] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[11:49:33] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[11:49:33] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[11:49:33] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[11:49:33] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[11:49:33] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[11:49:33] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[11:49:33] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[11:49:34] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigDungeonModule
+[11:49:34] [modloading-worker-0/WARN]: Configuration file D:\MC Profiles\Instances\comicraft\config\appleskin-client.toml is not correct. Correcting
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodValuesInTooltip was corrected from null to its default, true. 
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodValuesInTooltipAlways was corrected from null to its default, true. 
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client.showSaturationHudOverlay was corrected from null to its default, true. 
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodValuesHudOverlay was corrected from null to its default, true. 
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodValuesHudOverlayWhenOffhand was corrected from null to its default, true. 
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodExhaustionHudUnderlay was corrected from null to its default, true. 
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodStatsInDebugOverlay was corrected from null to its default, true. 
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodHealthHudOverlay was corrected from null to its default, true. 
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client.showVanillaAnimationsOverlay was corrected from null to its default, true. 
+[11:49:34] [modloading-worker-0/WARN]: Incorrect key client.maxHudOverlayFlashAlpha was corrected from null to its default, 0.65. 
+[11:49:34] [modloading-worker-0/INFO]: Found kubejs plugin
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.NoteBlockMobSoundsModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[11:49:34] [modloading-worker-0/INFO]: Found kubejs_mekanism plugin
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[11:49:34] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[11:49:35] [modloading-worker-0/WARN]: Configuration file D:\MC Profiles\Instances\comicraft\config\createaddition-common.toml is not correct. Correcting
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key general.fe_conversion was corrected from null to its default, 240. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key general.baseline_stress was corrected from null to its default, 8192. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key electric_motor was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key electric_motor.motor_rpm_range was corrected from null to its default, 256. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key electric_motor.motor_min_consumption was corrected from null to its default, 8. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key electric_motor.motor_max_input was corrected from null to its default, 256. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key electric_motor.motor_capacity was corrected from null to its default, 2048. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key alternator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key alternator.generator_max_output was corrected from null to its default, 256. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key alternator.generator_capacity was corrected from null to its default, 2048. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key alternator.generator_efficiency was corrected from null to its default, 0.75. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key rolling_mill was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key rolling_mill.rolling_mill_processing_duration was corrected from null to its default, 100. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key rolling_mill.rolling_mill_stress was corrected from null to its default, 16. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key heater was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key heater.heater_max_input was corrected from null to its default, 256. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key heater.heater_capacity was corrected from null to its default, 2048. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.CameraModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key heater.heater_normal_consumption was corrected from null to its default, 256. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key heater.heater_furnace_engine_consumption was corrected from null to its default, 1024. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key heater.heater_furnace_engine_enable was corrected from null to its default, false. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key wires was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key wires.connector_max_input was corrected from null to its default, 256. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key wires.connector_max_output was corrected from null to its default, 256. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key wires.connector_input_capacity was corrected from null to its default, 512. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key wires.wire_length was corrected from null to its default, 12. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key accumulator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key accumulator.accumulator_max_input was corrected from null to its default, 512. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key accumulator.accumulator_max_output was corrected from null to its default, 512. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key accumulator.accumulator_capacity was corrected from null to its default, 4196000. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key charger was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key charger.charger_max_input was corrected from null to its default, 8192. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key charger.charger_charge_rate was corrected from null to its default, 8192. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key charger.charger_capacity was corrected from null to its default, 32000. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_max_input was corrected from null to its default, 8192. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_charge_rate was corrected from null to its default, 4096. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_recipe_charge_rate was corrected from null to its default, 1024. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_capacity was corrected from null to its default, 32000. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_hurt_energy_required was corrected from null to its default, 1024. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_hurt_range was corrected from null to its default, 3. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_hurt_mob was corrected from null to its default, 3. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_effect_time_mob was corrected from null to its default, 20. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_hurt_player was corrected from null to its default, 2. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_effect_time_player was corrected from null to its default, 20. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.tesla_coil_fire_cooldown was corrected from null to its default, 20. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key tesla_coil.certus_quartz_charge_chance was corrected from null to its default, 0.96. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key misc.diamond_grit_sandpaper_uses was corrected from null to its default, 1024. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key misc.overcharging_energy_cost was corrected from null to its default, 16777216. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key misc.furnace_burner_engine_speed was corrected from null to its default, 1.0. 
+[11:49:35] [modloading-worker-0/WARN]: Incorrect key misc.crude_burner_engine_speed was corrected from null to its default, 2.0. 
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FrogsModule
+[11:49:35] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[11:49:35] [modloading-worker-0/INFO]: Found ftbchunks plugin
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[11:49:35] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ChestsInBoatsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.ZombieVillagersOnNormalModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybind
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.OrientalPaletteModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[11:49:36] [modloading-worker-0/INFO]: Found ftbquests plugin
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[11:49:36] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[11:49:36] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT
+[11:49:37] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT_CLIENT
+[11:49:37] [modloading-worker-0/INFO]: Found kubejs_create plugin
+[11:49:37] [modloading-worker-0/INFO]: Done in 3 s
+[11:49:38] [modloading-worker-0/INFO]: Loaded common.properties
+[11:49:45] [modloading-worker-0/INFO]: Hello, World! (You will only see this line once in console, during startup)
+[11:49:46] [modloading-worker-0/INFO]: Loaded script startup_scripts:script.js in 0.536 s
+[11:49:46] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 1.794 s
+[11:49:46] [modloading-worker-0/INFO]: Hello, World! (You will see this line every time client resources reload)
+[11:49:46] [modloading-worker-0/INFO]: Loaded script client_scripts:script.js in 0.004 s
+[11:49:46] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.032 s
+[11:49:48] [Render thread/FATAL]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[11:49:49] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundLoadEvent to a broken mod state
+[11:49:50] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[11:49:50] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[11:49:50] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[11:49:50] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[11:49:50] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Block to a broken mod state
+[11:49:50] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Item to a broken mod state
+[11:49:52] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ParticleFactoryRegisterEvent to a broken mod state
+[11:49:52] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[11:49:52] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterClientReloadListenersEvent to a broken mod state
+[11:49:52] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterLayerDefinitions to a broken mod state
+[11:49:52] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterRenderers to a broken mod state
+[11:49:53] [Render thread/INFO]: Reloading ResourceManager: Default, quark-emote-pack, KubeJS Resource Pack [assets]
+[11:49:53] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[11:49:53] [Render thread/INFO]: [OptiFine] Resource packs: quark-emote-pack
+[11:49:53] [Worker-Main-15/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ModelRegistryEvent to a broken mod state
+[11:49:54] [Worker-Main-13/INFO]: [OptiFine] Multitexture: false
+[11:49:54] [Worker-Main-17/INFO]: [OptiFine] Multitexture: false
+[11:49:54] [Worker-Main-16/INFO]: [OptiFine] Multitexture: false
+[11:49:54] [Worker-Main-13/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[11:49:54] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[11:49:54] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[11:49:54] [Render thread/WARN]: [OptiFine] (Reflector) More than one method found: net.minecraftforge.client.ForgeHooksClient.onFogRender
+[11:49:54] [Render thread/WARN]: [OptiFine] (Reflector)  - public static void net.minecraftforge.client.ForgeHooksClient.onFogRender(net.minecraft.client.renderer.FogRenderer$FogMode,net.minecraft.client.Camera,float,float)
+[11:49:54] [Render thread/WARN]: [OptiFine] (Reflector)  - public static void net.minecraftforge.client.ForgeHooksClient.onFogRender(net.minecraft.client.renderer.FogRenderer$FogMode,net.minecraft.client.Camera,float,float,float,com.mojang.blaze3d.shaders.FogShape)
+[11:49:55] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] Multitexture: false
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] Multipass connected textures: false
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[11:50:08] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] Multipass connected textures: false
+[11:50:09] [Worker-Main-15/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[11:50:21] [Worker-Main-15/INFO]: [OptiFine] Mipmap levels: 4
+[11:50:21] [Worker-Main-15/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[11:50:25] [Worker-Main-15/INFO]: [OptiFine] Multitexture: false
+[11:50:25] [Worker-Main-15/INFO]: [OptiFine] Sprite size: 64
+[11:50:25] [Worker-Main-15/INFO]: [OptiFine] Mipmap levels: 6
+[11:50:25] [Worker-Main-15/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[11:50:25] [Worker-Main-15/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[11:50:25] [Worker-Main-15/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[11:50:25] [Worker-Main-15/INFO]: [OptiFine] Multitexture: false
+[11:50:25] [Worker-Main-15/INFO]: [OptiFine] Sprite size: 64
+[11:50:25] [Worker-Main-15/INFO]: [OptiFine] Mipmap levels: 6
+[11:50:25] [Worker-Main-15/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[11:50:25] [Worker-Main-15/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[11:50:25] [Worker-Main-15/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[11:50:25] [Worker-Main-15/INFO]: [OptiFine] Multitexture: false
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Sprite size: 64
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Mipmap levels: 6
+[11:50:26] [Worker-Main-15/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[11:50:26] [Worker-Main-15/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Multitexture: false
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Sprite size: 64
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Mipmap levels: 6
+[11:50:26] [Worker-Main-15/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[11:50:26] [Worker-Main-15/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Multitexture: false
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Sprite size: 64
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Mipmap levels: 6
+[11:50:26] [Worker-Main-15/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[11:50:26] [Worker-Main-15/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Multitexture: false
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Sprite size: 64
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Mipmap levels: 6
+[11:50:26] [Worker-Main-15/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[11:50:26] [Worker-Main-15/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[11:50:26] [Worker-Main-15/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[11:50:26] [Render thread/ERROR]: Cowardly refusing to send event com.jozufozu.flywheel.event.GatherContextEvent to a broken mod state
+[11:50:26] [Render thread/INFO]: Loaded all shader sources.
+[11:50:26] [Render thread/ERROR]: FTB Quests theme file is missing! Some mod has broken resource loading, inspect log for errors
+[11:50:28] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[11:50:28] [Render thread/INFO]: Sound engine started
+[11:50:29] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[11:50:30] [Render thread/INFO]: [OptiFine] Animated sprites: 45
+[11:50:30] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[11:50:30] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[11:50:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[11:50:30] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[11:50:30] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[11:50:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[11:50:30] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[11:50:30] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[11:50:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[11:50:30] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[11:50:30] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[11:50:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[11:50:30] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[11:50:30] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[11:50:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[11:50:30] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[11:50:30] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[11:50:30] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[11:50:30] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[11:50:35] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ModelBakeEvent to a broken mod state
+[11:50:35] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[11:50:36] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$AddLayers to a broken mod state
+[11:50:38] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterShadersEvent to a broken mod state
+[11:50:39] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[11:50:39] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[11:50:39] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[11:50:39] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[11:50:39] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[11:50:39] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[11:50:39] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[11:50:39] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[11:50:39] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[11:50:39] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[11:51:00] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[11:51:00] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[11:51:01] [Render thread/FATAL]: Preparing crash report with UUID 78a1287b-15ca-42f5-840b-525bbfcbb4dd
+[11:51:02] [Render thread/FATAL]: Preparing crash report with UUID 77306d40-c829-4f4d-aae1-79a989bc86a7
+[11:51:02] [Render thread/FATAL]: Crash report saved to D:\MC Profiles\Instances\comicraft\crash-reports\crash-2022-05-07_11.51.00-fml.txt
+[11:51:02] [Render thread/FATAL]: Preparing crash report with UUID e268f12d-e8ce-467c-9e93-16f9dfc81856
+[11:51:55] [Render thread/INFO]: Stopping!
+[11:51:55] [Render thread/INFO]: Shutting down map thread
